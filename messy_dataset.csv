@@ -1,0 +1,201 @@
+employee_id_hris,employee_id_ats,full_name,email,job_title,location,join_date,performance_rating,skills,training_completed,last_promotion_date
+EMP-1001,candidate_658,Dalima Usamah,dalima.usamah@medikanusantara.com,Senior Sales,Jakarta,2019-01-04,4.0,,Yes,2020-03-31
+EMP-1002,candidate_818,Kayla Usada,kayla.usada@medikanusantara.com,Sales II,Jakarta,2018-06-25,3.0,,Yes,2022-03-20
+EMP-1003,candidate_881,"Elvina Pradana, S.H.",elvina.pradana.s.h.@medikanusantara.com,Account Manager,Yogyakarta,2022-07-24,2.0,Relationship Management;Negotiation,No,
+EMP-1004,candidate_847,Hardi Farida,hardi.farida@medikanusantara.com,Sr Sales,Jakarta,2021-02-18,2.0,,No,2023-03-03
+EMP-1005,candidate_146,Tina Mangunsong,tina.mangunsong@medikanusantara.com,Sales II,Makassar,2017-02-08,,,No,2026-05-10
+EMP-1006,candidate_479,Cut Tari Sitompul,cut.tari.sitompul@medikanusantara.com,Sales Executive,Jakarta,2023-05-02,2.0,,No,2023-07-03
+EMP-1007,candidate_804,"Farhunnisa Puspasari, S.H.",farhunnisa.puspasari.s.h.@medikanusantara.com,Sales 2,Jakarta,2016-09-12,,CRM;Communication,No,
+EMP-1008,candidate_680,"Drs. Nugraha Gunawan, S.Farm",drs..nugraha.gunawan.s.farm@medikanusantara.com,Senior Sales,Bandung,2023-11-13,3.0,Leadership;CRM,No,
+EMP-1009,,Irsad Ardianto,irsad.ardianto@medikanusantara.com,Sales Executive,Bandung,2020-12-18,5.0,,No,
+EMP-1010,,Yuni Permadi,yuni.permadi@medikanusantara.com,Sr Sales,Yogyakarta,2017-08-21,,,Yes,2024-07-13
+EMP-1011,candidate_641,Gantar Wulandari,gantar.wulandari@medikanusantara.com,Sales 2,Jakarta,2023-10-03,3.0,Communication;CRM,No,2023-12-10
+EMP-1012,candidate_564,Kurnia Hidayanto,kurnia.hidayanto@medikanusantara.com,Senior Sales,Yogyakarta,2019-07-25,2.0,CRM;Leadership,No,
+EMP-1013,candidate_897,Dt. Wahyu Hutagalung,dt..wahyu.hutagalung@medikanusantara.com,Sales 2,Bandung,2021-09-07,,Communication;CRM,Yes,2024-10-20
+EMP-1014,candidate_414,Wirda Winarsih,wirda.winarsih@medikanusantara.com,AM,Jakarta,2024-10-13,5.0,,No,2024-12-01
+EMP-1015,candidate_269,Bahuwirya Zulaika,bahuwirya.zulaika@medikanusantara.com,Sales II,Yogyakarta,2020-07-20,2.0,CRM;Communication,Yes,2025-05-24
+EMP-1016,candidate_482,"Dr. Yuliana Hastuti, M.Ak",dr..yuliana.hastuti.m.ak@medikanusantara.com,Sr Sales,Yogyakarta,2019-03-23,3.0,CRM;Negotiation,No,2025-05-10
+EMP-1017,candidate_335,Dt. Bajragin Thamrin,dt..bajragin.thamrin@medikanusantara.com,Sales Senior,Yogyakarta,2019-11-23,2.0,,Yes,2022-08-10
+EMP-1018,candidate_652,Salwa Hartati,salwa.hartati@medikanusantara.com,Sales Executive,Jakarta,2017-04-26,2.0,Presentation;Communication,Yes,
+EMP-1019,candidate_533,Hasna Maryati,hasna.maryati@medikanusantara.com,Sales Senior,Yogyakarta,2020-01-07,3.0,Leadership;Negotiation,Yes,
+EMP-1020,candidate_243,"R. Pardi Narpati, S.Kom",r..pardi.narpati.s.kom@medikanusantara.com,Sales II,Jakarta,2022-10-13,2.0,Communication;CRM,Yes,
+EMP-1021,candidate_956,"Safina Pranowo, M.TI.",safina.pranowo.m.ti.@medikanusantara.com,Sales Senior,Bandung,2017-05-08,3.0,Negotiation;Leadership,Yes,
+EMP-1022,candidate_102,Drs. Luthfi Pangestu,drs..luthfi.pangestu@medikanusantara.com,Sales Executive,Jakarta,2019-06-12,3.0,Presentation;Communication,No,2022-11-28
+EMP-1023,candidate_159,"Damar Mustofa, S.Sos",damar.mustofa.s.sos@medikanusantara.com,Sales Senior,Bandung,2019-03-28,4.0,CRM;Leadership,Yes,
+EMP-1024,candidate_261,"Ir. Ellis Nashiruddin, M.M.",ir..ellis.nashiruddin.m.m.@medikanusantara.com,Senior Sales,Yogyakarta,2024-09-16,4.0,,No,2024-11-01
+EMP-1025,candidate_683,Dina Firmansyah,dina.firmansyah@medikanusantara.com,Sales II,Surabaya,2023-02-22,,,Yes,2023-04-29
+EMP-1026,candidate_371,"R. Melinda Haryanto, S.I.Kom",r..melinda.haryanto.s.i.kom@medikanusantara.com,Sales II,Yogyakarta,2024-03-19,5.0,Communication;CRM,Yes,2025-03-17
+EMP-1027,candidate_202,KH. Luis Nurdiyanti,kh..luis.nurdiyanti@medikanusantara.com,Sales Senior,Bandung,2021-04-06,4.0,Negotiation;CRM,No,2026-02-03
+EMP-1028,candidate_656,"Latika Wulandari, M.M.",latika.wulandari.m.m.@medikanusantara.com,Account Manager,Surabaya,2021-07-14,3.0,Relationship Management;Negotiation,No,
+EMP-1029,,Tgk. Nyoman Suryatmi,tgk..nyoman.suryatmi@medikanusantara.com,Senior Sales,Yogyakarta,2017-09-16,,,Yes,2019-03-10
+EMP-1030,candidate_749,R. Agnes Haryanti,r..agnes.haryanti@medikanusantara.com,Sales 2,Yogyakarta,2022-02-19,4.0,,Yes,2026-02-09
+EMP-1031,,R. Parman Dongoran,r..parman.dongoran@medikanusantara.com,Senior Sales,Bandung,2017-09-21,2.0,Leadership;Negotiation,Yes,2025-04-26
+EMP-1032,candidate_252,Harjasa Purnawati,harjasa.purnawati@medikanusantara.com,Sales Senior,Surabaya,2019-06-01,,CRM;Negotiation,Yes,
+EMP-1033,candidate_981,Mila Narpati,mila.narpati@medikanusantara.com,Sales 2,Bandung,2021-09-04,5.0,,No,2024-09-02
+EMP-1034,candidate_930,"Kenari Kuswandari, S.Farm",kenari.kuswandari.s.farm@medikanusantara.com,Sales II,Surabaya,2020-10-28,4.0,Communication;CRM,Yes,2022-03-19
+EMP-1035,candidate_210,Jagapati Sihombing,jagapati.sihombing@medikanusantara.com,Senior Sales,Makassar,2019-07-02,3.0,Leadership;CRM,Yes,
+EMP-1036,candidate_992,drg. Daruna Narpati,drg..daruna.narpati@medikanusantara.com,Sales Senior,Jakarta,2023-01-29,3.0,,No,2024-09-03
+EMP-1037,candidate_756,R. Dalima Wijayanti,r..dalima.wijayanti@medikanusantara.com,Sr Sales,Surabaya,2021-06-11,4.0,,Yes,2023-04-24
+EMP-1038,candidate_371,"Irma Budiyanto, S.Pt",irma.budiyanto.s.pt@medikanusantara.com,AM,Yogyakarta,2023-05-11,2.0,,No,
+EMP-1039,candidate_101,Johan Firgantoro,johan.firgantoro@medikanusantara.com,AM,Bandung,2024-03-18,5.0,Relationship Management;Negotiation,Yes,
+EMP-1040,candidate_416,Yulia Wahyudin,yulia.wahyudin@medikanusantara.com,Sales Executive,Yogyakarta,2016-12-19,4.0,Presentation;Communication,Yes,2022-11-21
+EMP-1041,candidate_730,Kamaria Namaga,kamaria.namaga@medikanusantara.com,Sr Sales,Bandung,2021-05-05,4.0,Negotiation;Leadership,No,2022-02-28
+EMP-1042,candidate_429,Najam Utami,najam.utami@medikanusantara.com,Senior Sales,Makassar,2016-09-14,4.0,,No,2024-10-18
+EMP-1043,candidate_788,Juli Rahmawati,juli.rahmawati@medikanusantara.com,Sales Senior,Surabaya,2022-06-25,3.0,Leadership;CRM,Yes,2023-03-18
+EMP-1044,candidate_566,Cakrajiya Dongoran,cakrajiya.dongoran@medikanusantara.com,Sales 2,Surabaya,2021-11-05,2.0,,No,2022-01-28
+EMP-1045,,Citra Simanjuntak,citra.simanjuntak@medikanusantara.com,Sr Sales,Surabaya,2023-09-04,5.0,,Yes,2025-03-13
+EMP-1046,candidate_968,Mahdi Simbolon,mahdi.simbolon@medikanusantara.com,Sr Sales,Jakarta,2024-06-12,3.0,,No,
+EMP-1047,candidate_365,Prima Pertiwi,prima.pertiwi@medikanusantara.com,AM,Makassar,2021-07-14,5.0,Negotiation;Relationship Management,Yes,2021-12-04
+EMP-1048,candidate_443,Kajen Sudiati,kajen.sudiati@medikanusantara.com,Sales Senior,Bandung,2023-11-20,3.0,,Yes,2025-06-03
+EMP-1049,,Kamal Aryani,kamal.aryani@medikanusantara.com,Sales 2,Surabaya,2022-10-11,3.0,,Yes,2026-04-07
+EMP-1050,candidate_405,Bella Pratiwi,bella.pratiwi@medikanusantara.com,Senior Sales,Makassar,2022-02-01,3.0,Leadership;Negotiation,No,2024-01-07
+EMP-1051,candidate_784,Galak Sinaga,galak.sinaga@medikanusantara.com,Sales Executive,Makassar,2016-09-03,5.0,,No,2020-08-06
+EMP-1052,candidate_185,Ajeng Mandala,ajeng.mandala@medikanusantara.com,Sales Senior,Surabaya,2021-01-29,3.0,CRM;Negotiation,No,2022-07-21
+EMP-1053,candidate_445,Lanjar Tampubolon,lanjar.tampubolon@medikanusantara.com,Sales Senior,Surabaya,2016-11-07,3.0,,No,2019-12-08
+EMP-1054,candidate_767,"Ratih Pradana, S.Ked",ratih.pradana.s.ked@medikanusantara.com,Account Manager,Makassar,2023-07-16,2.0,Relationship Management;Negotiation,Yes,2024-02-01
+EMP-1055,,Kairav Novitasari,kairav.novitasari@medikanusantara.com,Sales Executive,Jakarta,2017-07-25,3.0,Communication;Presentation,Yes,2018-10-30
+EMP-1056,candidate_418,Zamira Santoso,zamira.santoso@medikanusantara.com,Account Manager,Makassar,2021-05-23,4.0,,Yes,2022-10-03
+EMP-1057,candidate_970,"Safina Marpaung, M.TI.",safina.marpaung.m.ti.@medikanusantara.com,Sr Sales,Bandung,2018-07-10,5.0,Negotiation;CRM,Yes,
+EMP-1058,candidate_969,"drg. Yuliana Budiyanto, M.Kom.",drg..yuliana.budiyanto.m.kom.@medikanusantara.com,Senior Sales,Jakarta,2022-11-22,4.0,CRM;Leadership,Yes,2023-11-09
+EMP-1059,candidate_766,Harimurti Prasetyo,harimurti.prasetyo@medikanusantara.com,Sales II,Makassar,2019-12-27,5.0,Communication;CRM,No,
+EMP-1060,candidate_188,Niyaga Fujiati,niyaga.fujiati@medikanusantara.com,Sales Senior,Yogyakarta,2017-05-03,5.0,CRM;Leadership,No,2020-07-30
+EMP-1061,candidate_599,"Darsirah Kurniawan, S.E.I",darsirah.kurniawan.s.e.i@medikanusantara.com,Sales Executive,Makassar,2022-03-01,5.0,Presentation;Communication,Yes,2024-08-04
+EMP-1062,candidate_600,Wisnu Pradana,wisnu.pradana@medikanusantara.com,AM,Bandung,2023-03-24,4.0,Negotiation;Relationship Management,Yes,
+EMP-1063,candidate_413,"Wira Waluyo, M.Kom.",wira.waluyo.m.kom.@medikanusantara.com,Sales Senior,Surabaya,2025-01-09,5.0,Negotiation;CRM,No,
+EMP-1064,candidate_357,"Gawati Tampubolon, S.Pt",gawati.tampubolon.s.pt@medikanusantara.com,Sales Senior,Bandung,2017-10-23,,Leadership;CRM,No,2023-05-17
+EMP-1065,candidate_703,"Niyaga Prastuti, M.M.",niyaga.prastuti.m.m.@medikanusantara.com,AM,Surabaya,2021-02-12,2.0,Relationship Management;Negotiation,Yes,2024-12-03
+EMP-1066,,Hairyanto Laksita,hairyanto.laksita@medikanusantara.com,Account Manager,Yogyakarta,2023-08-29,2.0,Negotiation;Relationship Management,No,
+EMP-1067,,Cut Rina Wahyuni,cut.rina.wahyuni@medikanusantara.com,Senior Sales,Bandung,2018-04-12,2.0,CRM;Negotiation,No,
+EMP-1068,candidate_216,Dirja Suryono,dirja.suryono@medikanusantara.com,Sales Senior,Makassar,2018-07-31,4.0,,Yes,
+EMP-1069,candidate_671,Hilda Permadi,hilda.permadi@medikanusantara.com,Senior Sales,Jakarta,2025-03-13,3.0,,No,
+EMP-1070,candidate_539,R. Kamal Nugroho,r..kamal.nugroho@medikanusantara.com,Sales Executive,Yogyakarta,2018-03-25,,,No,
+EMP-1071,candidate_260,Suci Mayasari,suci.mayasari@medikanusantara.com,Sales II,Yogyakarta,2023-10-20,3.0,Communication;CRM,Yes,
+EMP-1072,candidate_564,Luwes Haryanti,luwes.haryanti@medikanusantara.com,Sales Senior,Makassar,2018-03-02,4.0,,No,2019-03-25
+EMP-1073,candidate_946,Gina Waluyo,gina.waluyo@medikanusantara.com,Sales Executive,Bandung,2024-05-08,5.0,,Yes,2024-11-22
+EMP-1074,candidate_612,"Dr. Febi Wacana, S.H.",dr..febi.wacana.s.h.@medikanusantara.com,Account Manager,Bandung,2018-12-05,5.0,,No,2021-11-26
+EMP-1075,candidate_956,Belinda Pertiwi,belinda.pertiwi@medikanusantara.com,Senior Sales,Yogyakarta,2019-12-28,5.0,CRM;Leadership,Yes,
+EMP-1076,candidate_699,Cemeti Susanti,cemeti.susanti@medikanusantara.com,Senior Sales,Yogyakarta,2020-12-11,4.0,Negotiation;Leadership,No,2024-07-14
+EMP-1077,,Simon Mardhiyah,simon.mardhiyah@medikanusantara.com,Sales II,Makassar,2018-09-16,5.0,,No,2021-11-25
+EMP-1078,candidate_891,Yusuf Tarihoran,yusuf.tarihoran@medikanusantara.com,Account Manager,Makassar,2022-12-02,5.0,Relationship Management;Negotiation,Yes,2023-12-07
+EMP-1079,candidate_552,Janet Najmudin,janet.najmudin@medikanusantara.com,Senior Sales,Yogyakarta,2017-08-27,,Negotiation;CRM,No,2020-05-15
+EMP-1080,candidate_224,"Dr. Karsana Oktaviani, S.IP",dr..karsana.oktaviani.s.ip@medikanusantara.com,Account Manager,Surabaya,2021-08-19,,,No,2024-09-03
+EMP-1081,candidate_572,"Tgk. Fitriani Tampubolon, S.Gz",tgk..fitriani.tampubolon.s.gz@medikanusantara.com,Sales 2,Surabaya,2017-06-01,4.0,Communication;CRM,Yes,2022-06-24
+EMP-1082,candidate_664,Kayun Haryanto,kayun.haryanto@medikanusantara.com,Sales Senior,Surabaya,2023-04-16,4.0,Leadership;CRM,No,2026-02-13
+EMP-1083,candidate_373,"Fitria Pranowo, S.Farm",fitria.pranowo.s.farm@medikanusantara.com,Sales 2,Surabaya,2024-03-30,2.0,,No,2024-06-01
+EMP-1084,candidate_566,Hendri Maheswara,hendri.maheswara@medikanusantara.com,Sales Senior,Bandung,2016-12-01,3.0,Leadership;CRM,No,2020-06-23
+EMP-1085,candidate_822,Yuliana Nurdiyanti,yuliana.nurdiyanti@medikanusantara.com,Sales Executive,Surabaya,2024-09-10,,,No,
+EMP-1086,candidate_550,Vicky Suryono,vicky.suryono@medikanusantara.com,Sales Senior,Surabaya,2016-09-08,2.0,,No,2017-08-15
+EMP-1087,candidate_738,Waluyo Tamba,waluyo.tamba@medikanusantara.com,Sales 2,Jakarta,2022-04-10,5.0,CRM;Communication,No,2023-11-10
+EMP-1088,candidate_599,Ani Mandasari,ani.mandasari@medikanusantara.com,AM,Jakarta,2025-04-05,,,No,2026-03-04
+EMP-1089,candidate_202,Padmi Yolanda,padmi.yolanda@medikanusantara.com,Sales Executive,Jakarta,2018-09-25,4.0,Communication;Presentation,Yes,2022-10-30
+EMP-1090,candidate_249,Himawan Sihombing,himawan.sihombing@medikanusantara.com,Senior Sales,Bandung,2022-03-23,2.0,,Yes,
+EMP-1091,candidate_697,Digdaya Yuniar,digdaya.yuniar@medikanusantara.com,Sales 2,Surabaya,2022-05-09,3.0,,No,2024-11-29
+EMP-1092,candidate_701,"Cinthia Santoso, M.M.",cinthia.santoso.m.m.@medikanusantara.com,Sales Senior,Bandung,2021-06-16,4.0,Leadership;CRM,Yes,
+EMP-1093,candidate_467,"Nalar Andriani, S.E.",nalar.andriani.s.e.@medikanusantara.com,Account Manager,Makassar,2018-10-01,5.0,Relationship Management;Negotiation,No,
+EMP-1094,candidate_952,"Drs. Puji Gunawan, S.T.",drs..puji.gunawan.s.t.@medikanusantara.com,Senior Sales,Bandung,2022-10-31,5.0,,Yes,2026-01-14
+EMP-1095,candidate_416,Yani Kusumo,yani.kusumo@medikanusantara.com,AM,Surabaya,2020-03-05,3.0,Negotiation;Relationship Management,Yes,2022-01-22
+EMP-1096,candidate_305,Liman Oktaviani,liman.oktaviani@medikanusantara.com,AM,Jakarta,2022-04-27,3.0,,No,2023-04-07
+EMP-1097,candidate_991,Titi Riyanti,titi.riyanti@medikanusantara.com,Account Manager,Bandung,2021-03-13,3.0,,No,2021-11-21
+EMP-1098,,Naradi Safitri,naradi.safitri@medikanusantara.com,Sales 2,Jakarta,2018-09-23,3.0,Communication;CRM,Yes,2022-10-03
+EMP-1099,candidate_674,"Daliono Mangunsong, S.Ked",daliono.mangunsong.s.ked@medikanusantara.com,AM,Makassar,2018-10-09,4.0,Negotiation;Relationship Management,Yes,2020-09-14
+EMP-1100,,Talia Megantara,talia.megantara@medikanusantara.com,Sales Executive,Yogyakarta,2021-11-20,2.0,Presentation;Communication,No,
+EMP-1101,candidate_860,"Candrakanta Uyainah, M.Ak",candrakanta.uyainah.m.ak@medikanusantara.com,Sales II,Makassar,2021-10-06,2.0,,Yes,2022-05-09
+EMP-1102,candidate_554,Tari Kuswoyo,tari.kuswoyo@medikanusantara.com,Sales 2,Yogyakarta,2019-12-04,5.0,Communication;CRM,No,
+EMP-1103,candidate_225,"Niyaga Mahendra, S.E.I",niyaga.mahendra.s.e.i@medikanusantara.com,AM,Surabaya,2018-09-01,2.0,Negotiation;Relationship Management,Yes,2024-05-13
+EMP-1104,,Halima Prasetya,halima.prasetya@medikanusantara.com,Sales II,Makassar,2023-02-20,3.0,CRM;Communication,No,
+EMP-1105,,Ulva Narpati,ulva.narpati@medikanusantara.com,Sales Executive,Jakarta,2016-09-03,,,Yes,2018-09-13
+EMP-1106,candidate_234,Sutan Balamantri Mardhiyah,sutan.balamantri.mardhiyah@medikanusantara.com,Sales 2,Surabaya,2024-12-12,,,Yes,
+EMP-1107,candidate_216,"Drs. Cakrajiya Novitasari, S.H.",drs..cakrajiya.novitasari.s.h.@medikanusantara.com,AM,Surabaya,2016-06-23,2.0,,Yes,
+EMP-1108,,Nurul Suryatmi,nurul.suryatmi@medikanusantara.com,Sales II,Bandung,2019-01-18,5.0,CRM;Communication,No,2021-03-04
+EMP-1109,,"Tgk. Vicky Wulandari, M.TI.",tgk..vicky.wulandari.m.ti.@medikanusantara.com,Sr Sales,Makassar,2018-03-05,2.0,Leadership;Negotiation,Yes,2020-07-25
+EMP-1110,candidate_973,"Yulia Habibi, S.Gz",yulia.habibi.s.gz@medikanusantara.com,AM,Yogyakarta,2019-09-06,5.0,Negotiation;Relationship Management,No,
+EMP-1111,candidate_847,"R. Tari Prastuti, S.Gz",r..tari.prastuti.s.gz@medikanusantara.com,Sales Executive,Yogyakarta,2022-09-18,5.0,Communication;Presentation,No,2022-10-21
+EMP-1112,candidate_193,Drs. Utama Napitupulu,drs..utama.napitupulu@medikanusantara.com,AM,Makassar,2020-10-09,4.0,,Yes,2021-09-07
+EMP-1113,candidate_868,Putri Prakasa,putri.prakasa@medikanusantara.com,AM,Jakarta,2024-02-22,3.0,Negotiation;Relationship Management,No,2025-11-01
+EMP-1114,candidate_772,Zamira Gunarto,zamira.gunarto@medikanusantara.com,Account Manager,Jakarta,2024-10-11,,,Yes,2026-02-14
+EMP-1115,candidate_810,Jasmani Kusumo,jasmani.kusumo@medikanusantara.com,AM,Bandung,2017-02-11,2.0,Relationship Management;Negotiation,Yes,2017-10-11
+EMP-1116,candidate_510,"Drs. Yulia Narpati, S.Gz",drs..yulia.narpati.s.gz@medikanusantara.com,Account Manager,Surabaya,2020-02-14,4.0,Negotiation;Relationship Management,Yes,2024-08-21
+EMP-1117,candidate_419,Lega Puspita,lega.puspita@medikanusantara.com,Sales II,Jakarta,2016-07-20,,,No,2021-02-06
+EMP-1118,candidate_777,Manah Wastuti,manah.wastuti@medikanusantara.com,Sales II,Yogyakarta,2020-10-13,2.0,,Yes,2021-08-27
+EMP-1119,candidate_707,Bella Astuti,bella.astuti@medikanusantara.com,Account Manager,Makassar,2016-08-16,3.0,Relationship Management;Negotiation,No,
+EMP-1120,candidate_316,Gawati Wasita,gawati.wasita@medikanusantara.com,Senior Sales,Bandung,2018-05-04,3.0,,Yes,
+EMP-1121,candidate_820,Raisa Nuraini,raisa.nuraini@medikanusantara.com,AM,Bandung,2017-08-30,2.0,,No,
+EMP-1122,,Tgk. Oliva Wahyudin,tgk..oliva.wahyudin@medikanusantara.com,Sales II,Bandung,2019-09-12,5.0,CRM;Communication,Yes,2021-01-22
+EMP-1123,candidate_920,"dr. Hesti Tamba, M.Farm",dr..hesti.tamba.m.farm@medikanusantara.com,Sr Sales,Makassar,2023-08-24,5.0,,No,
+EMP-1124,candidate_417,"Anita Lailasari, S.H.",anita.lailasari.s.h.@medikanusantara.com,Sales II,Bandung,2016-07-11,5.0,CRM;Communication,No,2022-10-23
+EMP-1125,candidate_894,"T. Wadi Hakim, S.Psi",t..wadi.hakim.s.psi@medikanusantara.com,AM,Surabaya,2021-06-07,3.0,,Yes,2023-02-02
+EMP-1126,candidate_877,Ina Firmansyah,ina.firmansyah@medikanusantara.com,Sales Executive,Surabaya,2019-11-16,2.0,,Yes,
+EMP-1127,,"drg. Bella Suryono, S.Ked",drg..bella.suryono.s.ked@medikanusantara.com,Sales Senior,Makassar,2020-09-15,,Leadership;CRM,No,
+EMP-1128,candidate_158,Purwanto Najmudin,purwanto.najmudin@medikanusantara.com,Account Manager,Bandung,2021-03-25,,,Yes,2025-10-05
+EMP-1129,candidate_292,Taufik Firmansyah,taufik.firmansyah@medikanusantara.com,Sr Sales,Jakarta,2022-09-09,5.0,CRM;Negotiation,No,2025-10-28
+EMP-1130,candidate_549,Aisyah Wasita,aisyah.wasita@medikanusantara.com,Sales 2,Makassar,2023-08-09,2.0,Communication;CRM,Yes,
+EMP-1131,candidate_795,"KH. Maman Hakim, S.Pd",kh..maman.hakim.s.pd@medikanusantara.com,Sales 2,Yogyakarta,2022-09-14,4.0,,No,2026-01-12
+EMP-1132,candidate_772,Zaenab Pradipta,zaenab.pradipta@medikanusantara.com,Sales II,Bandung,2018-06-16,4.0,,No,
+EMP-1133,candidate_501,"Sutan Ikin Waskita, S.T.",sutan.ikin.waskita.s.t.@medikanusantara.com,AM,Surabaya,2017-12-22,2.0,Relationship Management;Negotiation,No,2020-03-19
+EMP-1134,candidate_948,Aurora Wibisono,aurora.wibisono@medikanusantara.com,Account Manager,Jakarta,2024-03-20,,,No,2026-04-22
+EMP-1135,candidate_884,Cinta Astuti,cinta.astuti@medikanusantara.com,Sales II,Yogyakarta,2017-03-26,5.0,CRM;Communication,No,
+EMP-1136,candidate_856,Mahfud Hutapea,mahfud.hutapea@medikanusantara.com,Sales 2,Surabaya,2021-06-05,3.0,,Yes,2025-01-19
+EMP-1137,candidate_739,"Dr. Simon Napitupulu, S.E.I",dr..simon.napitupulu.s.e.i@medikanusantara.com,Sales 2,Bandung,2023-11-02,,,Yes,
+EMP-1138,candidate_870,Puti Amelia Rajasa,puti.amelia.rajasa@medikanusantara.com,Senior Sales,Makassar,2017-11-24,5.0,,Yes,2021-11-01
+EMP-1139,candidate_551,Qori Simanjuntak,qori.simanjuntak@medikanusantara.com,Sales Executive,Yogyakarta,2019-05-14,4.0,Presentation;Communication,No,2022-07-23
+EMP-1140,,Hasan Melani,hasan.melani@medikanusantara.com,Sr Sales,Bandung,2022-08-08,,Negotiation;CRM,Yes,2026-03-31
+EMP-1141,candidate_250,Luwar Najmudin,luwar.najmudin@medikanusantara.com,Sales II,Bandung,2025-01-16,,Communication;CRM,Yes,
+EMP-1142,candidate_495,Jaswadi Suwarno,jaswadi.suwarno@medikanusantara.com,Sales Executive,Jakarta,2019-09-23,5.0,Communication;Presentation,Yes,2026-02-11
+EMP-1143,candidate_910,"Tgk. Ajeng Pratama, S.Ked",tgk..ajeng.pratama.s.ked@medikanusantara.com,Sales Executive,Bandung,2021-10-29,2.0,,Yes,2023-02-10
+EMP-1144,candidate_661,Vivi Rahimah,vivi.rahimah@medikanusantara.com,Sales 2,Makassar,2020-09-13,5.0,CRM;Communication,Yes,
+EMP-1145,candidate_912,dr. Sabri Suartini,dr..sabri.suartini@medikanusantara.com,Sr Sales,Yogyakarta,2020-09-24,2.0,Negotiation;Leadership,Yes,
+EMP-1146,,"Drs. Suci Kusmawati, S.Psi",drs..suci.kusmawati.s.psi@medikanusantara.com,Sales II,Jakarta,2019-12-19,5.0,CRM;Communication,Yes,
+EMP-1147,candidate_905,Oliva Wijayanti,oliva.wijayanti@medikanusantara.com,Sr Sales,Yogyakarta,2019-02-03,3.0,Negotiation;Leadership,Yes,2025-02-24
+EMP-1148,,Tgk. Mujur Mulyani,tgk..mujur.mulyani@medikanusantara.com,Senior Sales,Yogyakarta,2022-09-19,5.0,Negotiation;Leadership,No,
+EMP-1149,candidate_758,"Hj. Iriana Namaga, S.E.",hj..iriana.namaga.s.e.@medikanusantara.com,Sales Executive,Bandung,2017-07-10,2.0,Presentation;Communication,Yes,2019-06-10
+EMP-1150,,"Tgk. Heryanto Yuliarti, S.Pt",tgk..heryanto.yuliarti.s.pt@medikanusantara.com,Sales Senior,Makassar,2019-07-27,3.0,Negotiation;Leadership,Yes,
+EMP-1151,candidate_465,"drg. Zulaikha Nasyiah, M.Pd",drg..zulaikha.nasyiah.m.pd@medikanusantara.com,AM,Jakarta,2021-08-08,4.0,Negotiation;Relationship Management,Yes,2022-09-17
+EMP-1152,candidate_550,Irma Pradipta,irma.pradipta@medikanusantara.com,AM,Jakarta,2018-04-10,4.0,,No,2020-06-17
+EMP-1153,candidate_180,Gara Sihombing,gara.sihombing@medikanusantara.com,Sales Senior,Surabaya,2021-09-07,5.0,,No,2022-04-29
+EMP-1154,candidate_717,Maras Prasetya,maras.prasetya@medikanusantara.com,Account Manager,Surabaya,2025-01-04,4.0,,No,2025-04-08
+EMP-1155,candidate_754,"H. Rahmat Rahayu, M.M.",h..rahmat.rahayu.m.m.@medikanusantara.com,AM,Makassar,2020-10-30,5.0,,No,2022-12-27
+EMP-1156,candidate_900,Sabrina Andriani,sabrina.andriani@medikanusantara.com,Sr Sales,Jakarta,2025-03-13,4.0,CRM;Negotiation,Yes,
+EMP-1157,,"Rina Hassanah, S.E.I",rina.hassanah.s.e.i@medikanusantara.com,Sales II,Surabaya,2018-02-07,3.0,Communication;CRM,No,2025-06-14
+EMP-1158,candidate_355,Ridwan Saragih,ridwan.saragih@medikanusantara.com,AM,Makassar,2024-02-13,4.0,Relationship Management;Negotiation,No,2024-03-31
+EMP-1159,candidate_726,"Drs. Atmaja Narpati, S.Psi",drs..atmaja.narpati.s.psi@medikanusantara.com,Sales 2,Jakarta,2021-04-10,5.0,CRM;Communication,No,2022-11-09
+EMP-1160,candidate_555,Panji Rahayu,panji.rahayu@medikanusantara.com,Sales Executive,Makassar,2017-03-29,2.0,,Yes,2018-02-23
+EMP-1161,candidate_753,Adiarja Sihotang,adiarja.sihotang@medikanusantara.com,AM,Bandung,2018-12-25,2.0,Negotiation;Relationship Management,Yes,2019-12-11
+EMP-1162,candidate_477,"Teguh Uwais, M.Pd",teguh.uwais.m.pd@medikanusantara.com,Sales Executive,Bandung,2018-08-10,2.0,Communication;Presentation,No,
+EMP-1163,candidate_638,Padmi Situmorang,padmi.situmorang@medikanusantara.com,Sales 2,Yogyakarta,2021-06-25,,CRM;Communication,No,2024-02-24
+EMP-1164,candidate_999,Hj. Lala Maulana,hj..lala.maulana@medikanusantara.com,Sales II,Makassar,2020-05-25,3.0,CRM;Communication,No,2025-01-16
+EMP-1165,candidate_826,Bakti Susanti,bakti.susanti@medikanusantara.com,Sales 2,Yogyakarta,2022-07-22,3.0,CRM;Communication,Yes,2022-11-03
+EMP-1166,candidate_646,Maida Saefullah,maida.saefullah@medikanusantara.com,Account Manager,Yogyakarta,2020-09-30,2.0,,No,
+EMP-1167,candidate_889,"Galiono Wibisono, S.E.",galiono.wibisono.s.e.@medikanusantara.com,Sales 2,Yogyakarta,2021-11-16,3.0,Communication;CRM,Yes,
+EMP-1168,candidate_801,Ade Budiyanto,ade.budiyanto@medikanusantara.com,Sr Sales,Surabaya,2023-10-17,,Leadership;CRM,No,2025-06-05
+EMP-1169,candidate_721,Wage Padmasari,wage.padmasari@medikanusantara.com,Sales II,Makassar,2018-06-01,2.0,,No,2023-10-26
+EMP-1170,,"Ana Nurdiyanti, S.Ked",ana.nurdiyanti.s.ked@medikanusantara.com,AM,Bandung,2021-01-22,5.0,,No,2021-02-22
+EMP-1171,candidate_528,Vicky Iswahyudi,vicky.iswahyudi@medikanusantara.com,Sales Executive,Makassar,2024-07-09,3.0,,No,2025-08-11
+EMP-1172,candidate_415,"Kawaya Sihombing, M.Ak",kawaya.sihombing.m.ak@medikanusantara.com,AM,Surabaya,2018-03-11,,Relationship Management;Negotiation,No,2019-10-10
+EMP-1173,candidate_711,Sakti Rajata,sakti.rajata@medikanusantara.com,Sr Sales,Jakarta,2021-08-21,,Negotiation;CRM,No,
+EMP-1174,candidate_844,Ratih Hutagalung,ratih.hutagalung@medikanusantara.com,Account Manager,Makassar,2018-08-20,,,Yes,2022-04-02
+EMP-1175,candidate_882,Kasiyah Agustina,kasiyah.agustina@medikanusantara.com,Sr Sales,Jakarta,2023-07-22,2.0,Negotiation;Leadership,No,
+EMP-1176,candidate_247,Maya Rahimah,maya.rahimah@medikanusantara.com,Sales II,Yogyakarta,2023-02-24,3.0,Communication;CRM,No,2023-07-01
+EMP-1177,candidate_585,drg. Nadia Hidayat,drg..nadia.hidayat@medikanusantara.com,Sr Sales,Yogyakarta,2019-05-09,,,Yes,
+EMP-1178,candidate_406,Lidya Padmasari,lidya.padmasari@medikanusantara.com,Sales 2,Yogyakarta,2016-08-03,4.0,Communication;CRM,No,2021-10-06
+EMP-1179,candidate_526,H. Jindra Megantara,h..jindra.megantara@medikanusantara.com,Sales Senior,Yogyakarta,2016-09-14,,,Yes,2021-12-03
+EMP-1180,candidate_744,Cahya Nasyiah,cahya.nasyiah@medikanusantara.com,Sales Senior,Jakarta,2023-11-09,4.0,CRM;Negotiation,Yes,2025-12-12
+EMP-1181,candidate_528,Cut Tami Hartati,cut.tami.hartati@medikanusantara.com,Sales 2,Makassar,2019-10-26,3.0,,Yes,
+EMP-1182,candidate_485,"Prayoga Saragih, S.Sos",prayoga.saragih.s.sos@medikanusantara.com,Sales Senior,Makassar,2021-08-02,2.0,CRM;Negotiation,No,2024-10-17
+EMP-1183,candidate_797,"Darmaji Gunawan, S.Gz",darmaji.gunawan.s.gz@medikanusantara.com,Sales Senior,Surabaya,2020-09-12,,,No,2025-04-15
+EMP-1184,candidate_889,Catur Padmasari,catur.padmasari@medikanusantara.com,Sales Senior,Yogyakarta,2025-04-14,3.0,Leadership;CRM,Yes,2025-06-01
+EMP-1185,candidate_488,Daryani Jailani,daryani.jailani@medikanusantara.com,Sales Senior,Surabaya,2023-12-01,4.0,CRM;Leadership,No,
+EMP-1186,,Paiman Anggriawan,paiman.anggriawan@medikanusantara.com,AM,Makassar,2024-11-16,3.0,,No,2026-03-18
+EMP-1187,candidate_345,"Nardi Prastuti, M.M.",nardi.prastuti.m.m.@medikanusantara.com,Sales Executive,Makassar,2017-04-07,3.0,Presentation;Communication,Yes,
+EMP-1188,candidate_797,dr. Amelia Saptono,dr..amelia.saptono@medikanusantara.com,Sales Executive,Yogyakarta,2021-04-09,3.0,,No,2024-10-16
+EMP-1189,candidate_392,"Gabriella Susanti, S.IP",gabriella.susanti.s.ip@medikanusantara.com,Sales 2,Yogyakarta,2018-01-15,5.0,Communication;CRM,Yes,2020-06-18
+EMP-1190,candidate_137,Bajragin Usada,bajragin.usada@medikanusantara.com,Sales Executive,Jakarta,2018-09-16,,Communication;Presentation,No,2025-08-12
+EMP-1191,candidate_443,Kiandra Adriansyah,kiandra.adriansyah@medikanusantara.com,Sales Senior,Makassar,2017-12-30,3.0,Leadership;Negotiation,Yes,
+EMP-1192,candidate_848,Ophelia Yulianti,ophelia.yulianti@medikanusantara.com,Sales Senior,Yogyakarta,2023-03-27,3.0,Leadership;CRM,Yes,2023-11-26
+EMP-1193,candidate_515,Gamanto Tampubolon,gamanto.tampubolon@medikanusantara.com,Sales 2,Bandung,2023-10-16,2.0,Communication;CRM,Yes,2024-10-20
+EMP-1194,candidate_106,Sutan Unggul Marpaung,sutan.unggul.marpaung@medikanusantara.com,AM,Yogyakarta,2021-03-21,2.0,Relationship Management;Negotiation,Yes,2025-03-25
+EMP-1195,candidate_163,Luluh Rahmawati,luluh.rahmawati@medikanusantara.com,Sales Senior,Surabaya,2021-01-24,4.0,Leadership;Negotiation,No,2022-08-19
+EMP-1196,candidate_236,"Sutan Cahyanto Pranowo, S.Psi",sutan.cahyanto.pranowo.s.psi@medikanusantara.com,Account Manager,Makassar,2023-06-10,3.0,Negotiation;Relationship Management,No,2025-01-29
+EMP-1197,candidate_906,"R.A. Jamalia Megantara, S.H.",r.a..jamalia.megantara.s.h.@medikanusantara.com,AM,Makassar,2023-09-02,5.0,Negotiation;Relationship Management,Yes,2025-11-05
+EMP-1198,,"Jaiman Safitri, M.TI.",jaiman.safitri.m.ti.@medikanusantara.com,AM,Makassar,2023-11-17,2.0,Relationship Management;Negotiation,Yes,2024-12-13
+EMP-1199,candidate_156,Shania Hidayat,shania.hidayat@medikanusantara.com,Sales Senior,Yogyakarta,2023-05-15,2.0,CRM;Leadership,Yes,2023-06-18
+EMP-1200,candidate_936,Galang Ramadan,galang.ramadan@medikanusantara.com,Sr Sales,Yogyakarta,2022-08-26,5.0,CRM;Leadership,No,2023-05-23
